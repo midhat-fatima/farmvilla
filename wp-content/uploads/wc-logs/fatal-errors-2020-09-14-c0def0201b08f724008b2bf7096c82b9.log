@@ -1,0 +1,12 @@
+2020-09-14T04:38:40+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\farmvilla\wp-content\themes\divi child\functions.php on line 46
+
+2020-09-14T04:39:46+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\farmvilla\wp-content\themes\divi child\functions.php on line 47
+
+2020-09-14T04:40:41+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\farmvilla\wp-content\themes\divi child\functions.php on line 47
+
+2020-09-14T04:48:42+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\farmvilla\wp-content\themes\divi child\functions.php on line 50
+
+2020-09-14T04:48:47+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\farmvilla\wp-content\themes\divi child\functions.php on line 50
+
+2020-09-14T10:35:31+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\farmvilla\wp-content\themes\divi child\woocommerce\myaccount\form-login.php on line 19
+
